@@ -55,8 +55,6 @@
     <img src="https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white" alt="CMake"/>
     <img src="https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi&logoColor=white" alt="Raspberry Pi"/>
 </div>
-<br/>
-<hr/>
 
 <br/>
 <hr/>
