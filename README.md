@@ -7,7 +7,7 @@
 <h3 align="center">A passionate robotics graduate student at the University of Maryland, College Park</h3>
 
 <h1 align="center">
-    <img src="https://github.com/koustubh1012/koustubh1012/blob/main/University_of_Maryland_seal.png" width="200"/>
+    <img src="https://github.com/koustubh1012/koustubh1012/blob/main/University_of_Maryland_seal.png" width="150"/>
 </h1>
 
 <br/>
@@ -18,9 +18,9 @@
  
  🌱 I’m currently learning **ROS, Control Systems, Machine Vision and Deep Learning**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
+💬 Ask me about **Robotics, ROS, Gazebo Simulations, Manufacturing and Automation**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+⚡ Fun fact **In the U.S. during the late '30s to early '40s the second syllable was pronounced with a long "O" like "row-boat"**
 
  </div>
  
