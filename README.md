@@ -6,6 +6,10 @@
 
 <h3 align="center">A passionate robotics graduate student at the University of Maryland, College Park</h3>
 
+<h1 align="center">
+    <img src="https://github.com/koustubh1012/koustubh1012/blob/main/University_of_Maryland_seal.png" />
+</h1>
+
 <br/>
 
 <div align="center">
