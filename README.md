@@ -20,7 +20,7 @@
 
 💬 Ask me about **Robotics, ROS, Gazebo Simulations, Manufacturing and Automation**
 
-⚡ Fun fact **In the U.S. during the late '30s to early '40s the second syllable was pronounced with a long "O" like "row-boat"**
+⚡ Fun fact: **In the U.S. during the late '30s to early '40s the second syllable was pronounced with a long "O" like "row-boat"**
 
  </div>
  
@@ -63,7 +63,7 @@
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/koustubh1012/koustubh1012/output/github-contribution-grid-snake.svg" />
   
-  <br/><br/><br/>
+  <br/>
 </div>
 
 <hr/>
